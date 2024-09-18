@@ -7,7 +7,7 @@
 	"EmitBytesTransferred": true,
 	"EmitDiagnosticNotices": true,
 	"DisableLocalHTTPProxy": true,
-	"EgressRegion": "SG",
+	"EgressRegion": "TT",
 	"TunnelPoolSize": 1,
 	"ConnectionWorkerPoolSize": 6,
 	"LimitTunnelProtocols": [
