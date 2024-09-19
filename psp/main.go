@@ -22,7 +22,7 @@ const (
 	appVersionCode = "1.3.200512"
 
 	copyrightYear   = "2020"
-	copyrightAuthor = "Aztec Rabbit"
+	copyrightAuthor = "Aztec Rabbit mod by shak"
 )
 
 var (
